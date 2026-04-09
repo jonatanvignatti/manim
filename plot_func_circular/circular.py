@@ -7,9 +7,7 @@ class TrigonometriaZill(Scene):
     def construct(self):
         # --- TÍTULO INICIAL ---
         titulo = Text("Trigonometría: Secciones 9.2 y 9.3", color=BLUE)
-        subtitulo = Text("Zill & Dewar - 3ra Edición", font_size=24).next_to(
-            titulo, DOWN
-        )
+        subtitulo = Text("Zill & Dewar ", font_size=24).next_to(titulo, DOWN)
         self.play(Write(titulo), FadeIn(subtitulo))
         self.wait(2)
         self.play(FadeOut(titulo), FadeOut(subtitulo))

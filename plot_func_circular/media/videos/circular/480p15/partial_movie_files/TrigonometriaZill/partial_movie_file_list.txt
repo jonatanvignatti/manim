@@ -1,7 +1,7 @@
 # This file is used internally by FFMPEG.
-file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/1185818338_671096020_223132457.mp4'
-file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/624642324_4247107814_2746966634.mp4'
-file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/624642324_3372532160_1910005910.mp4'
+file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/1185818338_1840929265_223132457.mp4'
+file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/624642324_4247107814_2126154557.mp4'
+file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/624642324_2773302325_955710661.mp4'
 file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/624642324_1148742936_1666280314.mp4'
 file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/624642324_734892865_1747468615.mp4'
 file 'file:/Users/jonatan/manim/plot_func_circular/media/videos/circular/480p15/partial_movie_files/TrigonometriaZill/624642324_3293910211_2326658163.mp4'
